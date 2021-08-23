@@ -1,0 +1,15 @@
+.page__wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.page {
+  margin: 15px 5px;
+  padding: 10px;
+  border: 2px solid rgb(115, 220, 247);
+  cursor: pointer;
+}
+.page__current {
+  border: 2px solid orange;
+  font-weight: bold;
+}

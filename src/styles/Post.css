@@ -1,0 +1,14 @@
+.post {
+  display: flex;
+  padding: 15px;
+  border: 2px solid rgb(115, 220, 247);
+  margin-top: 15px;
+  justify-content: space-between;
+  align-items: center;
+}
+.post__content {
+  text-align: start;
+}
+.post__buttons {
+  display: flex;
+}
